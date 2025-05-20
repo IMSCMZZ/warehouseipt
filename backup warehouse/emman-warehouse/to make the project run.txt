@@ -1,0 +1,10 @@
+first open terminal
+
+cd emman-warehouse 
+cd backend 
+node index.js
+
+second terminal
+
+cd emman-warehouse
+npm run dev
